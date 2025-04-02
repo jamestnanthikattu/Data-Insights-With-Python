@@ -1,11 +1,11 @@
 # Data-Insights-With-Python
 Data Insights using Python
 
-Instacart Sales Data Analysis
+**Instacart Sales Data Analysis**
 Overview
 This repository presents an in-depth exploratory analysis of Instacart's sales data, aiming to uncover key customer purchasing patterns. As an analyst, the primary objective is to generate actionable insights that support targeted marketing strategies. This analysis responds to key inquiries from the sales and marketing teams, such as identifying peak shopping periods, understanding spending behavior, and assessing product popularity by department. Additionally, the project explores customer segmentation by analyzing brand loyalty, geographic location, age, income, and family status. These findings will help Instacart enhance its marketing efforts, optimize sales strategies, and improve the relevance of promotions and advertisements.
 
-Key Research Questions
+**Key Research Questions**
 What are the busiest days and times for orders?
 
 When do customers tend to spend the most money?
@@ -26,13 +26,11 @@ How can demographic factors (age, income, product preferences, and family status
 
 What are the key differences in purchasing behaviors among various customer segments?
 
-Repository Structure
+**Repository Structure**
 
 02 Data: Includes two subfolders (Note: Data is not uploaded to GitHub due to size limitations).
 
-Original Data: Raw datasets.
-
-Prepared Data: Cleaned data ready for analysis.
+Original Data: Raw and Cleaned datasets ready for analysis.
 
 03 Scripts: Jupyter notebooks containing Python scripts used for data analysis.
 
@@ -40,7 +38,7 @@ Prepared Data: Cleaned data ready for analysis.
 
 05 Sent to Client: Final presentation delivered in an Excel format.
 
-Code and Libraries
+**Code and Libraries**
 The analysis is conducted using Python in Jupyter notebooks. The following libraries are utilized:
 
 Pandas: For data manipulation and analysis
@@ -57,5 +55,5 @@ Seaborn: For statistical data visualization
 
 SciPy: For scientific computing and advanced mathematical functions
 
-Disclaimer
+**Disclaimer**
 Instacart is a real company that has made its data publicly available. However, all customer data used in this analysis is fictitious and is solely for educational purposes as part of CareerFoundry’s Data Analytics program.
